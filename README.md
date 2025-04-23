@@ -1,5 +1,4 @@
-# Numan
-My personal portfolio website
+
 <!DOCTYPE html>
 <html lang="bn">
 <head>
@@ -33,7 +32,7 @@ My personal portfolio website
   <div class="card">
     <h1>আসসালামু আলাইকুম, আমি নোমান</h1>
     <p>আমি একজন ওয়েব ডেভেলপার হতে চাই।</p>
-    <p>যোগাযোগ: <a href="mailto:your@email.com">your@email.com</a></p>
+    <p>যোগাযোগ: <a href="mailto:alnumansheikh@email.com">alnibaj.com</a></p>
   </div>
 </body>
 </html>
